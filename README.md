@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cordis.Us.<br>👯 I’m looking to collaborate on software development.<br>🌱 I’m currently learning React Native.<br>💬 Ask me about React, Javascript.<br>📫 How to reach me Ajithkumara6667@gmail.com.<br>👨‍💻 All of my projects are available at https://original-portfolio-zeta.vercel.app/.<br>
+🔭 I’m currently working in Cordis.Us.<br>👯 I’m looking to collaborate on software development.<br>🌱 I’m currently learning React Native.<br>💬 Ask me about React, Javascript.<br>📫 How to reach me Ajithkumara6667@gmail.com.<br>👨‍💻 All of my projects are available at https://original-portfolio-zeta.vercel.app/.<br>
 
 
 ## 🌐 Socials:
